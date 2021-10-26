@@ -1,0 +1,24 @@
+# Problems
+### 09.20.2021
+- Water filtering
+- Deforestation
+- Medicine
+- Scarce housing
+- Removing trash from oceans
+- Oil Spills
+- Space debris
+- Fire-resistant building materials
+- Biodegradable containers
+- Creating freshwater
+- Air pollution
+- Sanitation
+- Removing waste from systems
+- Gentrification
+- Energy efficiency housing/buildings
+- Radiation in space - affecting human space travelers
+- Public transportation
+- Contamination
+- Durable building materials
+- Structural support for buildings
+- Air filtration
+- Disaster response
